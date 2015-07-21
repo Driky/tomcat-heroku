@@ -48,9 +48,6 @@
             <version>2.2.2</version>
         </dependency>
 
-    </dependencies>
-
-  <dependencies>
     <dependency>
         <groupId>org.apache.tomcat.embed</groupId>
         <artifactId>tomcat-embed-core</artifactId>
