@@ -11,6 +11,7 @@
         <jdk.version>1.6</jdk.version>
         <spring.version>3.2.13.RELEASE</spring.version>
         <jstl.version>1.2</jstl.version>
+        <tomcat.version>7.0.57</tomcat.version>
     </properties>
 
     <dependencies>
@@ -49,9 +50,6 @@
 
     </dependencies>
 
-<properties>
-    <tomcat.version>7.0.57</tomcat.version>
-  </properties>
   <dependencies>
     <dependency>
         <groupId>org.apache.tomcat.embed</groupId>
